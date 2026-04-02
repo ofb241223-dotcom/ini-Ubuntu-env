@@ -1,17 +1,1 @@
-dash2dock-lite@icedman.github.com
-compiz-windows-effect@hermes83.github.com
-CoverflowAltTab@palatis.blogspot.com
-blur-my-shell@aunetx
-gnome-ui-tune@itstime.tech
-compiz-alike-magic-lamp-effect@hermes83.github.com
-tilingshell@ferrarodomenico.com
-clipboard-indicator@tudmotu.com
-quick-settings-audio-panel@rayzeq.github.io
-better-desktop-zoom@popov895.ukr.net
-burn-my-windows@schneegans.github.com
-bluetooth-battery-monitor@v8v88v8v88.com
-appmenu-is-back@fthx
-logomenu@aryan_k
-vertical-workspaces@G-dH.github.com
-openbar@neuromorph
-ubuntu-appindicators@ubuntu.com
+['dash-to-dock@micxgx.gmail.com', 'blur-my-shell@aunetx', 'CoverflowAltTab@palatis.blogspot.com', 'compiz-alike-magic-lamp-effect@hermes83.github.com', 'gnome-ui-tune@itstime.tech', 'compiz-windows-effect@hermes83.github.com', 'tilingshell@ferrarodomenico.com', 'clipboard-indicator@tudmotu.com', 'gnome-shell-screenshot@ttll.de', 'screenshort-cut@pauloimon', 'quick-settings-audio-panel@rayzeq.github.io', 'burn-my-windows@schneegans.github.com', 'better-desktop-zoom@popov895.ukr.net', 'desktop-cube@schneegans.github.com', 'dash2dock-lite@icedman.github.com', 'bluetooth-battery-monitor@v8v88v8v88.com', 'openbar@neuromorph', 'logomenu@aryan_k', 'appmenu-is-back@fthx']
